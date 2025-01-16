@@ -2,4 +2,4 @@
 
 I'm a Software craftsman :smile:.
 
-Now I'm expanding my Systems and Embeded Programming knowledge with Rust :crab:.
+Now I'm expanding my Systems and Embeded Programming knowledge 🦎.
